@@ -1,6 +1,8 @@
 # Job Match Analyzer
 
-A LinkedIn-style job match analyzer that tells you whether a role is worth your time before you spend an hour on a cover letter. Paste in a job description, point it at your resume, and get a qualification-by-qualification breakdown with an honest fit score and concrete direction on what to address. *Step by step instructions included at the end, if you need them.*
+A LinkedIn-style job match analyzer that tells you whether a role is worth your time before you spend an hour on a cover letter. Paste in a job description, point it at your resume, and get a qualification-by-qualification breakdown with an honest fit score and concrete direction on what to address. 
+
+Read more about how it works at [dzick.com/content/job-analyzer](https://dzick.com/content/job-analyzer).
 
 ---
 
@@ -18,7 +20,7 @@ A LinkedIn-style job match analyzer that tells you whether a role is worth your 
 
 ---
 
-## Setup
+## How to Get Started
 
 You only need two things before your first session:
 
